@@ -1,0 +1,6 @@
+# Take input from the user
+string =input("enter a string:")
+#Reverse the string using slicing
+reversed_string = string[::-1]
+#Print the resuit
+print("Reversed string:",reversed_string)
